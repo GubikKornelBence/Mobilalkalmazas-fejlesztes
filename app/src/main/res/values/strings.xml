@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hearty Vérnyomás monitorozó orvosi alkalmazás</string>
+    <string name="name">Felhasználónév</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="register">Regisztráció</string>
+    <string name="email">E-Mail cím</string>
+    <string name="passwordConfirm">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+</resources>
