@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:stretchColumns="1">
+
+        <TableRow>
+            <TextView android:text="@string/time" android:textStyle="bold"/>
+            <TextView android:id="@+id/time"/>
+        </TableRow>
+
+
+        <TableRow>
+            <TextView android:text="@string/pulse" android:textStyle="bold"/>
+            <TextView android:id="@+id/heartRate"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView android:text="@string/bloodpressure" android:textStyle="bold"/>
+            <TextView android:id="@+id/bloodPressure"/>
+        </TableRow>
+
+        <TableRow>
+            <TextView android:text="@string/oxygen" android:textStyle="bold"/>
+            <TextView android:id="@+id/oxygen"/>
+        </TableRow>
+
+        <TableRow>
+            <Button
+                android:id="@+id/btnDelete"
+                android:text="@string/delete"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+        </TableRow>
+
+
+
+    </TableLayout>
+
+
+</RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>

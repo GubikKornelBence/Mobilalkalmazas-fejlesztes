@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Hearty Vérnyomás monitorozó orvosi alkalmazás</string>
+    <string name="app_name">-Hearty-</string>
     <string name="name">Felhasználónév</string>
     <string name="password">Jelszó</string>
     <string name="login">Bejelentkezés</string>
@@ -7,4 +7,46 @@
     <string name="email">E-Mail cím</string>
     <string name="passwordConfirm">Jelszó megerősítése</string>
     <string name="cancel">Mégse</string>
+    <string name="recyclerView">asd</string>
+    <string name="time">Időpont</string>
+    <string name="pulse">Pulzus</string>
+    <string name="bloodpressure">Vérnyomás</string>
+    <string name="oxygen">Véroxigén</string>
+    <string name="delete">Törlés</string>
+
+        <string-array name="dates">
+            <item>2025.05.10</item>
+            <item>2025.06.02</item>
+            <item>2025.06.15</item>
+            <item>2025.07.01</item>
+            <item>2025.07.18</item>
+        </string-array>
+
+        <integer-array name="pulses">
+            <item>72</item>
+            <item>68</item>
+            <item>75</item>
+            <item>70</item>
+            <item>73</item>
+        </integer-array>
+
+        <string-array name="bloodpressure">
+            <item>120/80</item>
+            <item>118/76</item>
+            <item>233/82</item>
+            <item>229/79</item>
+            <item>121/81</item>
+        </string-array>
+
+        <integer-array name="oxygen">
+            <item>98</item>
+            <item>99</item>
+            <item>97</item>
+            <item>98</item>
+            <item>99</item>
+        </integer-array>
+
+
+
 </resources>
+

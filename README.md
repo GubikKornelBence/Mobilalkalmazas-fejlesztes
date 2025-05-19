@@ -1,10 +1,7 @@
 	Vérnyomás monitorozó orvosi alkalmazás -Hearty<br>
 
-    Sajnos egyenlőre olyan nagyon nem tudtam eltérni az órai projekttől, mert nem volt időm megvalósítani a többi oldalt ezeket meg annyira nem lehet máshogyan megoldani működőképesen<br>
-    De azért messze nem 1:1 copy róla <br>
+    Sajnos nem tudtam megoldani hogy a recycleViewer megjelenjen, így nem hiszem hogy lehet a <br>
+    minimumpontszámot adni rá. Ami az első mérföldkőből átlett hozva pont az mind jó tudtommal.
 
-    A bejelentkezés és regisztráció nekem működött hiba nélkül van egy teszt felhasználó is <br>
-asd@asd.com<br>
-asdasd<br>
 
 Jó munkát!
